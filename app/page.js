@@ -203,7 +203,7 @@ export default function HomePage() {
             <div className="mx-auto grid max-w-7xl gap-12 lg:grid-cols-2">
               <div className="flex flex-col justify-center">
                 <h2 className="text-5xl font-bold leading-tight text-white sm:text-6xl lg:text-7xl">
-                  Everything in a Box\!
+                  Everything in a Box!
                 </h2>
                 <p className="mt-6 text-xl leading-relaxed text-brandGray sm:text-2xl">
                   Your one stop for all your sexy toys and pleasure imagination

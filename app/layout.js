@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Velvet Box',
-  description: 'Luxury intimate wellness shop for men and women.',
+  title: 'SHOPBOX - Everything in a Box',
+  description: 'Your one stop for all your sexy toys and pleasure imagination.',
 };
 
 export default function RootLayout({ children }) {
